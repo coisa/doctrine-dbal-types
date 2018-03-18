@@ -2,7 +2,7 @@
   "name": "coisa/doctrine-dbal-types",
   "description": "Extra types for Doctrine DBAL",
   "type": "library",
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Felipe Sayão Lobato Abreu",
